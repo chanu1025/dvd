@@ -6,3 +6,4 @@ staged and commited the index file
 configured to ignore .txt files
 reverted some commits
 
+created new branches 
